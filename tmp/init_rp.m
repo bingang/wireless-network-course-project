@@ -1,0 +1,1 @@
+rpModel = RadioPropagation(TwoRay(), Lognormal(), Fading());
